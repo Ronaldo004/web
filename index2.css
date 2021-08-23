@@ -1,0 +1,331 @@
+.form-radio{
+color: white;
+padding-left: 45%;
+}
+    
+.body{
+    font-family: "Sofia", sans-serif;
+    font-size: 70px;
+    margin-left: 590px;
+    color: white;
+}
+#main{
+    margin-top: 80px;
+    padding-left: 20px;
+}
+#fname{
+    width: 60%;
+    margin-left: 300px;
+}
+#lname{
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 30px;
+
+}
+#email{
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 30px;
+
+}
+#password{
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 30px;
+
+}
+#confirmp{
+    width: 60%;
+    margin-left: 300px;
+    margin-top: 30px;
+
+}
+body{
+    background-image: url(food/pancakes-2291908_1920.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+
+}
+#butt{
+    width: 75%;
+    margin-left: 300px;
+    margin-top: 30px;
+    
+
+}
+@media (max-width:480px) {
+    .body{
+        font-family: "Sofia", sans-serif;
+        font-size: 70px;
+        margin-left: auto;
+    }
+    #main{
+        margin-top: auto;
+        padding-left: auto;
+    }
+    #fname{
+        width: 100%;
+        margin-left: auto;
+       margin-top: auto;
+    }
+    #lname{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #email{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #password{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    #confirmp{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    body{
+       
+  
+        background-image: url(food/pancakes-2291908_1920.jpg);
+        background-size: 300% ;
+        background-repeat: no-repeat;
+        background-color: #ADB0B5;
+    
+    }
+    #butt{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+   
+    
+}
+@media(min-width:480px)and (max-width:760px) {
+    .body{
+        font-family: "Sofia", sans-serif;
+        font-size: 70px;
+        margin-left: auto;
+    }
+    #main{
+        margin-top: auto;
+        padding-left: auto;
+    }
+    #fname{
+        width: 100%;
+        margin-left: auto;
+       margin-top: auto;
+    }
+    #lname{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #email{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #password{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    #confirmp{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    body{
+       
+  
+        background-image: url(food/pancakes-2291908_1920.jpg);
+        background-size: 250%;
+        background-repeat: no-repeat;
+        background-color: #ADB0B5;
+    
+    }
+    #butt{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+   
+    
+}
+@media (min-width:760px) and (max-width:1020px) {
+    .body{
+        font-family: "Sofia", sans-serif;
+        font-size: 70px;
+        margin-left: auto;
+    }
+    #main{
+        margin-top: auto;
+        padding-left: auto;
+    }
+    #fname{
+        width: 100%;
+        margin-left: auto;
+       margin-top: auto;
+    }
+    #lname{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #email{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #password{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    #confirmp{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    body{
+       
+  
+        background-image: url(food/pancakes-2291908_1920.jpg);
+        background-size: 150%;
+        background-repeat: no-repeat;
+        background-color: #ADB0B5;
+    
+    }
+    #butt{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+   
+    
+}
+@media (min-width:1020px) and (max-width:1224px) {
+    .body{
+        font-family: "Sofia", sans-serif;
+        font-size: 70px;
+        margin-left: auto;
+    }
+    #main{
+        margin-top: auto;
+        padding-left: auto;
+    }
+    #fname{
+        width: 100%;
+        margin-left: auto;
+       margin-top: auto;
+    }
+    #lname{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #email{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #password{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    #confirmp{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    body{
+       
+  
+        background-image: url(food/pancakes-2291908_1920.jpg);
+        background-size: 150%;
+        background-repeat: no-repeat;
+        background-color: #ADB0B5;
+    
+    }
+    #butt{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+   
+    
+}
+@media (min-width:1224px) and (max-width:1500px) {
+    .body{
+        font-family: "Sofia", sans-serif;
+        font-size: 70px;
+        margin-left: auto;
+    }
+    #main{
+        margin-top: auto;
+        padding-left: auto;
+    }
+    #fname{
+        width: 100%;
+        margin-left: auto;
+       margin-top: auto;
+    }
+    #lname{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #email{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+    #password{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    #confirmp{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    }
+    body{
+       
+  
+        background-image: url(food/pancakes-2291908_1920.jpg);
+        background-size: 200%;
+        background-repeat: no-repeat;
+        background-color: #ADB0B5;
+    
+    }
+    #butt{
+        width: 100%;
+        margin-left: auto;
+        margin-top: 4px auto;
+    
+    }
+   
+    
+}

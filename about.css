@@ -1,0 +1,50 @@
+.list1{
+    
+    width: 20%;
+    height: auto;
+    margin-top: 20px;
+    
+}
+#pop{
+    background-color:chartreuse;
+    border-radius: 0.4cm;
+}
+#text{
+    margin-left: 6px;
+
+
+}
+#text2{
+    color:white;
+}
+#pap{
+    width: 25%;
+    margin-left: 65%;
+    
+}
+#text2{
+    margin-left: 5px;
+}
+#ulnav2{
+    margin-left:40%;
+}
+.back{
+    
+    position: absolute;
+    bottom: 51%;
+    left: 20%;
+    width: 80%;
+    height: 105%;
+    padding-left: 15%;
+    top:19.5%;
+    background-image: url(food/food-2244724_1920.jpg);
+    padding-top:15%;
+    font-size: 50px;
+    font-family: "Sofia", sans-serif;
+    background-size: 120%;
+    background-repeat: no-repeat;
+
+    
+
+    
+}
